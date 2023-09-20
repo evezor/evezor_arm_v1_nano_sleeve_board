@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name NANO_SLAVE_BOARD-rescue)(type Legacy)(uri ${KIPRJMOD}/NANO_SLAVE_BOARD-rescue.lib)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri C:/Users/Andy/Downloads/arduino/arduino.lib)(options "")(descr ""))
+)
